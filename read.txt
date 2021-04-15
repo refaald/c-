@@ -1,0 +1,5 @@
+begin
+x := 20;
+x:=x+50;
+print(x);
+end
